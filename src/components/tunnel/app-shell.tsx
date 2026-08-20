@@ -113,6 +113,9 @@ export function TunnelApp() {
           </button>
         ))}
       </nav>
+      <p className="shrink-0 border-t border-border bg-surface px-3 py-1 text-center font-mono text-[10px] leading-tight text-subtle sm:text-left">
+        Training simulator · not for commercial or operational use
+      </p>
     </div>
   );
 }

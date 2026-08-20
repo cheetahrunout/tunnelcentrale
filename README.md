@@ -2,6 +2,8 @@
 
 LTS (Landelijke Tunnelstandaard) operations simulator for a motorway tunnel: two unidirectional tubes and a pressurised escape channel between them.
 
+**Disclaimer: not for commercial use.** This is a training / education simulator only. You may not use it (or derivatives) commercially. It is not a certified tunnel-control system and must not be used to operate real tunnels. See [LICENSE](LICENSE).
+
 ## What it is
 
 A traffic-control desk for the fictional A12 **Waterlinietunnel**.
@@ -29,3 +31,7 @@ npm run preview
 ## Stack
 
 React 19, TanStack Start, Tailwind v4, Zustand, Three.js / React Three Fiber.
+
+## License
+
+Non-commercial. Personal and educational use only. See [LICENSE](LICENSE).
